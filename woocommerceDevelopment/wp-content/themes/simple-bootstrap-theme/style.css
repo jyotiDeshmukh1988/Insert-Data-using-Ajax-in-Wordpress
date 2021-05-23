@@ -1,0 +1,26 @@
+/*
+Theme Name: Simple Bootstrap Theme
+Theme URL: https://www.google.com/
+Author: Jyoti Deshmukh
+Description: This is a very basic theme introduction. We are making the theme development at firts phase
+Author URI: https://github.com/jyotiDeshmukh1988
+version: 1.0
+*/
+.woocommerce .col2-set .col-1, .woocommerce-page .col2-set .col-1 {
+    float: left;
+    width: 48%;
+    max-width: 48%;
+}
+.woocommerce .col2-set .col-2, .woocommerce-page .col2-set .col-2 {
+    float: right;
+    width: 48%;
+    max-width: 48%;
+}
+body{
+	background:#efefef;
+}
+.img-responsive{
+	display: block;
+    max-width: 100%;
+    height: auto;
+}
